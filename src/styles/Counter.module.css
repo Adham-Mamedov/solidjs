@@ -1,0 +1,8 @@
+.counter_button {
+    padding: 0.5rem 1rem;
+    background-color: cornsilk;
+    border-radius: 7px;
+    font-size: 0.9rem;
+    border: 1px solid #343840;
+    cursor: pointer;
+}
