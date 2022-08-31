@@ -2,6 +2,8 @@
   "name": "vite-template-solid",
   "version": "0.0.0",
   "description": "",
+  "private": true,
+  "author": "@Adham-Mamedov <adhammamedov@mail.ru>",
   "scripts": {
     "start": "vite",
     "dev": "vite",
